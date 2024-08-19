@@ -1,6 +1,4 @@
-# NewsMania
-
-A new Flutter project.
+<H1> <center>NewsMania</center></H1>
 
 Few Screenshots:
 
