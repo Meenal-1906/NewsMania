@@ -1,4 +1,4 @@
-# newsapp
+# NewsMania
 
 A new Flutter project.
 
