@@ -34,4 +34,14 @@
         <p>Provider State Management</p>
     </li>
 </ul>
+<h3 name="screenshots">A Few Screenshots</h3>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/a58025d7-22b3-4521-8332-68e44e7a3d80" width="750" height="500" alt="WhatsApp Image">
+  <img src="https://github.com/user-attachments/assets/32038dba-7e48-440e-878d-eeb23959741f" width="750" height="500" alt="WhatsApp Image">
+  <img src="https://github.com/user-attachments/assets/cde7d075-e8b3-46be-a07c-ead7a74c1329" width="750" height="500" alt="WhatsApp Image">
+ 
+</div>
 
+
+
+<h2> Made with ❤️ by <I>Meenal Gupta</I> </h2>
