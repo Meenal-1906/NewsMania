@@ -15,16 +15,13 @@
 <h3 name="key-features"> Key Features Implemented </h3>
 <ul>
     <li>
-        <p>Email-Password login using FirebaseAuth</p>
+        <p>Category Selection: Users can select news categories such as General, Entertainment, Health, Sports, Business, and Technology.</p>
    </li>
     <li>
-        <p>Real-time data synchronisation using Firebase.</p>
+        <p>News Fetching: Fetches news articles based on the selected category from an external news API..</p>
     </li>
     <li>
-        <p>Users can add products to their cart.</p>
-    </li>
-    <li>
-        <p>Separate dashboards for vendors to manage their products.</p>
+        <p>Error Handling: Includes error handling and displays appropriate messages if there is an issue fetching data..</p>
     </li>
 </ul>
 <h3 name="tech-stack">TechStacks Used</h3>
@@ -32,9 +29,6 @@
 <ul>
     <li>
         <p>Flutter</p>
-    </li>
-    <li>
-        <p>FireBase</p>
     </li>
     <li>
         <p>Provider State Management</p>
