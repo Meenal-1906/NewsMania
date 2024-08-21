@@ -8,7 +8,7 @@
 - [Key Features](#key-features)
 - [Screenshots](#screenshots)
 </details>
-<h3 name="aim">  About RideSwiftly </h3>
+<h3 name="aim">  About NewsMania </h3>
 <p>This App contains a customer-app,
   vendor-app and an admin-dashboard-webapp, and the data flows dynamically in all three apps, managing and tracking the rides.</p>
 <hr>
